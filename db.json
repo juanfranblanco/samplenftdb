@@ -13,7 +13,7 @@
             "description": "My NFT",
             "external_url": "https://github.com/Nethereum/ERC721ContractLibrary.Template/",
             "external_url_more_info": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://github.com/Nethereum/Nethereum/raw/master/logos/logoNetLove.png",
+            "image": "ipfs://Qmak9HbdgcN1YQNHY1pkeW7KWmZedeEm4rsMZ1C9bPUnfe",
             "name": "My NFT 2"
         },
         {
@@ -21,7 +21,7 @@
             "description": "My NFT",
             "external_url": "https://github.com/Nethereum/ERC721ContractLibrary.Template/",
             "external_url_more_info": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://github.com/Nethereum/Nethereum/raw/master/logos/logoNet511x314.png",
+            "image": "ipfs://QmXAVjdbVDeS2fWkeF7uy26p9a9WCnav7ShRMMVQj4QBKy",
             "name": "My NFT 3"
         }
     ]
